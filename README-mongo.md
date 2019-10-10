@@ -12,6 +12,7 @@ Quick start for connection: http://mongodb.github.io/node-mongodb-native/3.1/qui
 - Connect to mongodb
 - Insert a few documents manually
 - Test available endpoints manually
+- Add a tag filter to search for notes by tag, refresh with a button
 - Add a notes page to display all notes, show the notes and Id (you will need to set up a reducer for this)
 - Add an editor that allows entering an _id, plus notes
 - Add a button to insert this text, convert it to a post request
